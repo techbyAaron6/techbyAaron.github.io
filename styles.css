@@ -7,7 +7,7 @@ h2 {
  }
  header {
   text-align: center;
-  background: tan;
+  background: grey;
   background-size: cover;
   padding:20px 0px 0px 0px;
   }
@@ -22,7 +22,6 @@ h2 {
   max-width: 500px;
   padding: 20px;
   margin: 0 auto;
-  text-align: left;
   }
   .borderline {
   padding: 10px;
